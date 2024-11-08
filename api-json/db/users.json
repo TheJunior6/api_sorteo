@@ -1,20 +1,20 @@
 {
   "users": [
     {
-      "username": "nando",
-      "password": "54321"
+      "username": "rubne",
+      "password": "2123"
     },
     {
-      "username": "nuevoUsuario",
-      "password": "nuevaPassword"
+      "username": "new",
+      "password": "344"
     },
     {
-      "username": "pepe",
-      "password": "123"
+      "username": "rara",
+      "password": "1232"
     },
     {
-      "username": "nandito",
-      "password": "zaq"
+      "username": "fasa",
+      "password": "2123"
     }
   ]
 }

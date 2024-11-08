@@ -1,24 +1,24 @@
 {
-  "userId": "nando",
-  "userPass": "54321",
-  "adminId": "jorge",
-  "adminPass": "qwer",
+  "userId": "ruben",
+  "userPass": "123243",
+  "adminId": "sanchez",
+  "adminPass": "q2333",
   "users": [
     {
-      "username": "pablo",
-      "password": "3312"
+      "username": "1214",
+      "password": "3223"
     },
     {
-      "username": "juan",
-      "password": "1234"
+      "username": "gaas",
+      "password": "12"
     },
     {
-      "username": "march",
-      "password": "1223"
+      "username": "m312",
+      "password": "4213"
     },
     {
-      "username": "brandin",
-      "password": "queso"
+      "username": "taty",
+      "password": "12234"
     }
   ]
 }
